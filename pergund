@@ -1,0 +1,35 @@
+criaCartao(
+    'futebol',
+    'qual seleção tem mais copas do mundo?',
+    'Brasil'
+)
+
+criaCartao(
+    'categoria',
+    'pergunta',
+    'resposta',
+)
+
+criaCartao(
+    'Categoria',
+    'pergunta',
+    'resposta'
+)
+
+criaCartao(
+    'categoria',
+    'pergunta',
+    'resposta'
+)
+
+criaCartao(
+    'categoria',
+    'pergunta',
+    'resposta,
+)
+
+criaCartao(
+    'categoria',
+    'pergunta',
+    'resposta'
+)
